@@ -1,0 +1,31 @@
+{
+  "name": "chainrivals-cli",
+  "version": "0.1.0",
+  "description": "Cross-chain smart contract security toolset",
+  "main": "cli/index.js",
+  "bin": {
+    "chainrivals": "cli/index.js"
+  },
+  "scripts": {
+    "test": "echo \"No test specified\" && exit 0"
+  },
+  "keywords": [
+    "smart contracts",
+    "security",
+    "ICP",
+    "Ethereum",
+    "Solana",
+    "AI"
+  ],
+  "author": "Kevin B. Isom",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.24.0",
+    "commander": "^14.0.0",
+    "dotenv": "^17.0.0",
+    "form-data": "^4.0.3"
+  },
+  "directories": {
+    "example": "examples"
+  }
+}
