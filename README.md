@@ -85,5 +85,4 @@ Feel free to contribute! Fork the repo, make changes, and submit a PR.
 MIT License
 
 
-
 This foundation provides a basic implementation of the ChainRivals structure and logic. You would need to expand significantly, especially on the specific analysis and AI explainer logic, as well as implement thorough testing.

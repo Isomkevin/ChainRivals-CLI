@@ -1,7 +1,6 @@
 #!/usr/bin/env node
 
 require('dotenv').config();
-
 const { program } = require('commander');
 const { runScan } = require('./scan.js');
 const axios = require('axios');
@@ -10,9 +9,9 @@ const fs = require('fs');
 const path = require('path');
 
 program
-    .name('chainrivals-cli')
-    .description('ChainRivals CLI: Scan smart contract files for vulnerabilities across ICP, EVM, and Solana, get AI-powered explanations for findings, and submit smart contracts as bounties to the web3 bug bounty platform https://www.chainrivals.xyz/.')
-    .version('1.1.0');
+  .name('chainrivals-cli')
+  .description('ChainRivals CLI: Scan smart contract files for vulnerabilities across ICP, EVM, and Solana, get AI-powered explanations for findings, and submit smart contracts as bounties to the web3 bug bounty platform https://www.chainrivals.xyz/.')
+  .version('1.1.0');
 
 program
   .command('scan')
@@ -21,7 +20,7 @@ program
   .requiredOption('--chain <chain>', 'Target blockchain for analysis. Supported values: icp, eth, solana')
   .option('--output <format>', 'Output format: json (machine-readable), md (Markdown), or cli (plain text, default)', 'cli')
   .option('--explain', 'Enable AI module to provide detailed explanations for each vulnerability found', false)
-  .option('--export <path>', 'Export output to a file (e.g., result.md)') // <-- Add this line
+  .option('--export <path>', 'Export output to a file (e.g., result.md)')
   .action(runScan);
 
 program
@@ -63,7 +62,8 @@ program
 program.addHelpText('after', `
 Examples:
   $ chainrivals scan --target ./contracts/MyContract.mo --chain icp
-  $ chainrivals scan --target ./contracts/MyContract.sol --chain eth --output json --explain
+  $ chainrivals scan --target ./contracts/MyContract.sol --chain eth --output json --explain --export result.json
+  $ chainrivals submit-bounty --target ./contracts/MyContract.sol --chain eth --title "My Smart Contract Bounty" --description "Please review for vulnerabilities."
 
 Environment Variables:
   OPENAI_ENDPOINT   Azure OpenAI endpoint for AI explanations (required if --explain is used)
