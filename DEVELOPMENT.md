@@ -31,7 +31,7 @@ This guide provides everything you need to know to contribute to ChainRivals CLI
 npm install -g chainrivals-cli
 
 # Or for development:
-git clone https://github.com/your-username/chainrivals-cli.git
+git clone https://github.com/LESOM-Dynamics/ChainRivals-CLI
 cd chainrivals-cli
 npm install
 npm link
@@ -478,7 +478,7 @@ We are committed to providing a welcoming and inclusive environment for all cont
 ### Recognition
 
 Contributors are recognized in:
-- [Contributors](https://github.com/chainrivals/chainrivals-cli/graphs/contributors) page
+- [Contributors](https://github.com/LESOM-Dynamics/ChainRivals-CLI/graphs/contributors) page
 - Release notes
 - Project documentation
 

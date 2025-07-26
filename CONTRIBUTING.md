@@ -41,7 +41,7 @@ Examples of unacceptable behavior include:
 
 ### Enforcement
 
-Instances of abusive, harassing, or otherwise unacceptable behavior may be reported to the community leaders responsible for enforcement at [conduct@chainrivals.xyz](mailto:conduct@chainrivals.xyz).
+Instances of abusive, harassing, or otherwise unacceptable behavior may be reported to the community leaders responsible for enforcement at [code-conduct@chainrivals.xyz](mailto:code-conduct@chainrivals.xyz).
 
 ## 🎯 **How Can I Contribute?**
 
@@ -123,7 +123,7 @@ We welcome code contributions! Here's how to get started:
 npm install -g chainrivals-cli
 
 # Or for development:
-git clone https://github.com/your-username/chainrivals-cli.git
+git clone https://github.com/LESOM-Dynamics/ChainRivals-CLI
 cd chainrivals-cli
 npm install
 npm link
@@ -156,11 +156,11 @@ DFX_NETWORK=local
 ```bash
 # Fork the repository on GitHub
 # Then clone your fork
-git clone https://github.com/your-username/chainrivals-cli.git
+git clone https://github.com/LESOM-Dynamics/ChainRivals-CLI
 cd chainrivals-cli
 
 # Add the original repository as upstream
-git remote add upstream https://github.com/chainrivals/chainrivals-cli.git
+git remote add upstream https://github.com/LESOM-Dynamics/ChainRivals-CLI
 ```
 
 ### 2. Create Feature Branch
@@ -409,7 +409,7 @@ When adding new features, update:
 
 Contributors are recognized in:
 
-- **Contributors Page**: [GitHub Contributors](https://github.com/chainrivals/chainrivals-cli/graphs/contributors)
+- **Contributors Page**: [GitHub Contributors](https://github.com/LESOM-Dynamics/ChainRivals-CLI/graphs/contributors)
 - **Release Notes**: Mentioned in release announcements
 - **Documentation**: Listed in contributor acknowledgments
 - **Hall of Fame**: Special recognition for significant contributions

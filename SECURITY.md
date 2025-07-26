@@ -129,7 +129,7 @@ When reporting a vulnerability, please include:
 ## Security Advisories
 
 Security advisories are published at:
-- **GitHub Security Advisories**: [Security Advisories](https://github.com/chainrivals/chainrivals-cli/security/advisories)
+- **GitHub Security Advisories**: [Security Advisories](https://github.com/LESOM-Dynamics/ChainRivals-CLI/security/advisories)
 - **Website**: [Security Page](https://chainrivals.xyz/security)
 - **Email**: [Security Newsletter](mailto:security-newsletter@chainrivals.xyz)
 

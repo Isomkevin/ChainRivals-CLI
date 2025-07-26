@@ -61,10 +61,10 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/chainrivals/chainrivals-cli.git"
+    "url": "https://github.com/LESOM-Dynamics/ChainRivals-CLI.git"
   },
   "bugs": {
-    "url": "https://github.com/chainrivals/chainrivals-cli/issues"
+    "url": "https://github.com/LESOM-Dynamics/ChainRivals-CLI/issues"
   },
   "homepage": "https://chainrivals.xyz",
   "engines": {

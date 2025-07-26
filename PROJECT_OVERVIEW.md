@@ -246,8 +246,8 @@ chainrivals --help
 ### **Community**
 - **[Contributing](CONTRIBUTING.md)**: How to contribute
 - **[Code of Conduct](CODE_OF_CONDUCT.md)**: Community guidelines
-- **[Discussions](https://github.com/chainrivals/chainrivals-cli/discussions)**: Community Q&A
-- **[Issues](https://github.com/chainrivals/chainrivals-cli/issues)**: Bug reports and features
+- **[Discussions](https://github.com/LESOM-Dynamics/ChainRivals-CLI/discussions)**: Community Q&A
+- **[Issues](https://github.com/LESOM-Dynamics/ChainRivals-CLI/issues)**: Bug reports and features
 
 ---
 

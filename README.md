@@ -12,27 +12,32 @@
 ## 🌟 **Key Features**
 
 ### 🔍 **Multi-Chain Security Analysis**
+
 - **ICP/Motoko**: Advanced canister-based analysis with dfx integration
 - **Ethereum/Solidity**: Comprehensive EVM contract scanning
 - **Solana/Rust**: Rust-based program analysis
 
 ### 🚀 **ICP Canister Integration**
+
 - **Deployable Motoko Canister**: On-chain security analysis
 - **Real-time Analysis**: Live vulnerability detection
 - **Fallback Mechanisms**: Graceful degradation to static analysis
 
 ### 🤖 **AI-Powered Insights**
+
 - **Context-Aware Explanations**: Understand vulnerabilities deeply
 - **Remediation Suggestions**: Get actionable security advice
 - **Severity Scoring**: Prioritize security fixes effectively
 
 ### 📊 **Multiple Output Formats**
+
 - **CLI**: Human-readable terminal output
 - **JSON**: Machine-readable for CI/CD integration
 - **Markdown**: Professional reports for documentation
 
 ### 🔗 **Bug Bounty Integration**
-- **Direct Submission**: Submit contracts to [ChainRivals Platform](https://chainrivals.xyz)
+
+- **Direct Submission**: Submit contracts to [ChainRivals Platform](https://chainrivals.xyz) for Bug Bounty Challenge Campaigns
 - **Automated Workflow**: Streamlined security review process
 - **Community-Driven**: Leverage crowdsourced security expertise
 
@@ -50,7 +55,7 @@
 npm install -g chainrivals-cli
 
 # Or clone the repository and link for development
-# git clone https://github.com/chainrivals/chainrivals-cli.git
+# git clone https://github.com/LESOM-Dynamics/ChainRivals-CLI
 # cd chainrivals-cli
 # npm install
 # npm link
@@ -198,7 +203,7 @@ We welcome contributions from the community! Please see our [Contributing Guide]
 
 ```bash
 # Fork and clone
-git clone https://github.com/your-username/chainrivals-cli.git
+git clone https://github.com/LESOM-Dynamics/ChainRivals-CLI
 cd chainrivals-cli
 
 # Install dependencies
@@ -257,8 +262,8 @@ npm run test:integration
 ## 📞 **Support & Community**
 
 - **Documentation**: [Technical Docs](TECHNICAL_DOCUMENTATION.md)
-- **Issues**: [GitHub Issues](https://github.com/chainrivals/chainrivals-cli/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/chainrivals/chainrivals-cli/discussions)
+- **Issues**: [GitHub Issues](https://github.com/LESOM-Dynamics/ChainRivals-CLI/issues)
+- **Discussions**: [GitHub Discussions](https://github.com/LESOM-Dynamics/ChainRivals-CLI/discussions)
 - **Platform**: [ChainRivals.xyz](https://chainrivals.xyz)
 
 ## 📄 **License**
