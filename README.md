@@ -1,6 +1,6 @@
-# ChainRivals
+# ChainRivals-CLI
 
-ChainRivals is a cross-chain smart contract security toolset focused on ICP, Ethereum, and Solana smart contracts. It helps developers catch vulnerabilities early, understand them better, and secure decentralized applications across ecosystems.
+ChainRivals-CLI is a cross-chain smart contract security toolset focused on ICP, Ethereum, and Solana smart contracts. It helps developers catch vulnerabilities early, understand them better, and secure decentralized applications across ecosystems.
 
 The CLI is tool that has been created to come closer to you and make it easier to use the ChainRivals toolset. It is a command-line interface that allows you to interact with the ChainRivals AI toolset in a more user-friendly way and create a pipeline to our web3 Bug Bounty Program (chainrivals.xyz)
 
