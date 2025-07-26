@@ -23,7 +23,9 @@
     "axios": "^0.24.0",
     "commander": "^14.0.0",
     "dotenv": "^17.0.0",
-    "form-data": "^4.0.3"
+    "execa": "^9.6.0",
+    "form-data": "^4.0.3",
+    "fs-extra": "^11.3.0"
   },
   "directories": {
     "example": "examples"

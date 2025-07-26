@@ -1,0 +1,7 @@
+type Timestamp = nat64;
+
+service : {
+  "analyze_code": (text) -> (text) query;
+  "get_info": () -> (text) query;
+  "health": () -> (text) query;
+};
