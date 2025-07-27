@@ -7,7 +7,7 @@
 [![dfx](https://img.shields.io/badge/dfx-0.15+-blue.svg)](https://internetcomputer.org/docs/current/developer-docs/setup/install/)
 [![ChainRivals](https://img.shields.io/badge/ChainRivals-Platform-orange.svg)](https://chainrivals.xyz)
 
-**ChainRivals CLI** is a cutting-edge, cross-chain smart contract security analysis tool that integrates with the Internet Computer (ICP) blockchain through dfx. It provides both static analysis and canister-based analysis capabilities, making it the ultimate tool for securing decentralized applications across multiple blockchain ecosystems.
+**ChainRivals CLI** aims to be a cutting-edge, cross-chain smart contract security analysis tool that integrates with the Internet Computer (ICP) blockchain through dfx. It provides both static analysis and canister-based analysis capabilities, making it the ultimate tool for securing decentralized applications across multiple blockchain ecosystems.
 
 ## 🌟 **Key Features**
 
